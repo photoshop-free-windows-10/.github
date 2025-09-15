@@ -51,4 +51,3 @@ Creative Cloud further enhances collaboration with cloud storage, version histor
 
 Optimized for the latest Windows systems, Adobe Photoshop CC takes advantage of modern GPUs and enhanced processing to handle large projects quickly and efficiently.
 
-Хочеш, я зроблю ще **дуже стислий варіант** цього тексту (2–3 абзаци) — такий, щоб підійшов для опису на сайті чи у каталозі програм?
